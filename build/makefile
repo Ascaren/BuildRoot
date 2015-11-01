@@ -1,5 +1,4 @@
-CC=../../i686-buildroot-linux-uclibc-gcc-4.9.3
-#CC=gcc
+CC=../../i686-buildroot-linux-uclibc-gcc
 
 All: clean Lib Exe
 
